@@ -1,3 +1,3 @@
 # pythonstudies
 
-Some Python code from _**my studies**_
+Some Python code from _**my studies**_ :smiley:
