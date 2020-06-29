@@ -56,7 +56,7 @@ class Pessoa:
 
 
 # Cada pessoa é uma instância da Classe Pessoa e tem suas próprias
-# características
+# características (atributos)
 
 pessoa1 = Pessoa('Levy', 19)
 pessoa1.comer('abacate')
