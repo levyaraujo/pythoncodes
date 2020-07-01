@@ -78,7 +78,7 @@ pessoa1.is_premium()
 print('-'*50)
 
 pessoa2 = Pessoa('Geovana', 16)
-pessoa2.comer('melancia')
+pessoa2.comer('merda')
 pessoa2.parar_comer()
 pessoa2.falar('séries')
 pessoa2.get_ano_nascimento()
